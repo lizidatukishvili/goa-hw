@@ -1,13 +1,13 @@
-name='lizi'
+name="lizi"
 
-surname='datukishvili'
+surname="datukishvili"
 
 age=13
 
-haight=1.60
+height=1.60
 
 
-
+print(name+" "+surname+" "+str(age)+" "+str(height))
 
 
 
