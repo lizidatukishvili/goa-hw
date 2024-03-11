@@ -1,5 +1,6 @@
-name1=int(input("რამდენი წლის ხარ? : "))
-name2=int(input ("რამდენი წლით გინდა მოგზაურობა? : "))
+user_age =int(input("რამდენი წლის ხარ? :"))
+travel_time =int(input("რამდენი წლით გინდა რომ იმოგზაურო? :"))
 
-print(name1 + name2 )
+print("მე ვიქნები 23 წლის")
+
 
