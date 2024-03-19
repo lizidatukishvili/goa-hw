@@ -7,7 +7,7 @@ pendown()
 
 
 #drawing 3 houses, a sun and a star
-speed(300)
+speed(100)
 width(7)
 color("blue")
 forward(200)
